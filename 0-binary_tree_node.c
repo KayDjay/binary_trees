@@ -1,8 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_t - function that create a bianry node
- * @pointer: pointer to the parent node of the node to create
+ * binary_tree_node - function that create a bianry node
+ * @parent: pointer to the parent node of the node to create
  * @value: value to put in the new node
  *
  * Return: New node or Null
